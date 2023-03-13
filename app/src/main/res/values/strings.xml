@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseProject</string>
+    <string name="Student_Name">Enter Student Name</string>
+    <string name="Student_Age">Enter Student Age</string>
+    <string name="Roll_No">Enter Roll No.</string>
+    <string name="Course">Enter Course</string>
+    <string name="Submit_btn">submit</string>
+    <string name="btn_student_find">Find</string>
+</resources>
